@@ -1,1 +1,1 @@
-# JAVA Crash-Course
+# JS Crash-Course
