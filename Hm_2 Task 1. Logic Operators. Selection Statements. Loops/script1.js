@@ -28,6 +28,9 @@ switch (num) {
     case 9:
         alert('(');
         break;
+    case 0:
+        alert(')');
+        break;
     default:
         break;
 }
