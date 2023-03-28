@@ -5,8 +5,6 @@ let enteredNumbersArr = enteredNumbers.split(',');
 
 let P = 0, N = 0, Z = 0, even = 0, odd = 0;
 
-console.log(enteredNumbersArr);
-
 for (let i = 0; i < enteredNumbersArr.length; i++) {
     
     enteredNumbersArr[i] < 0 ?  N++ : enteredNumbersArr[i] > 0 ? P++ : Z++;
